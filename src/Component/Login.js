@@ -122,7 +122,4 @@ const Logo2 = styled.img`
     box-sizing: border-box;
     margin-right: auto;
    width: 100%;
-
-
-
 `;

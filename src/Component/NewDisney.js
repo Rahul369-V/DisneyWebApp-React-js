@@ -15,7 +15,7 @@ const NewDisney = (props) => {
                 
                
                 {
-                    movies && movies.map((movie,key) => (// this bracket is exception,not curly brackets
+                    movies && movies.map((movie,key) => (// this bracket is exception,not curly bracket
                         <Wrap key={key}>
                             {movie.id}
                             <Link to={"/detail/"+movie.id}>
