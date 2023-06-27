@@ -1,3 +1,8 @@
+# Disney Clone with react JS
+A RestFul Webservice that clones the "Disney Hotstar" with Google Authentication using React JS ,Node JS /Express, Google Firebase for storage.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
